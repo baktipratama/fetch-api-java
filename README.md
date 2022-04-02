@@ -1,4 +1,4 @@
-## Getting Started
+## Spring Boot Fetch API
 This is a simple spring boot application with a rest API
 
 #### Requirements
