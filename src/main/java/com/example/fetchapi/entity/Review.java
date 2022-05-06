@@ -10,6 +10,12 @@ public class Review {
 
     private String title;
 
+    private String labels;
+
+    private String genres;
+
+    private String artists;
+
     private String url;
 
     private String score;
@@ -37,6 +43,18 @@ public class Review {
 
     public String getPub_year() {
         return pub_year;
+    }
+
+    public String getLabels() {
+        return labels;
+    }
+
+    public String getGenres() {
+        return genres;
+    }
+
+    public String getArtists() {
+        return artists;
     }
 }
 
